@@ -12,8 +12,16 @@
                   | $$                                                                          
                    \$$                                                                          
 ```
+What does it do?
 
-To run:
+Simply provide it a url, and all audio sources on that website will be scraped and dropped into `output/`, as well as a merged file. 
+
+To run on Windows:
 ```bash
 run.bat
+```
+
+To run on Mac/Linux:
+```bash
+run.sh
 ```
